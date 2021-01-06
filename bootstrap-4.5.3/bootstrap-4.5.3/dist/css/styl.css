@@ -1,0 +1,17 @@
+body{
+    background-color: azure;
+}
+nav{
+    background-color: white;
+}
+ul{
+    display: flex;
+    margin-left: 70px;
+} li{
+    margin: 30px;
+    list-style: none;
+}
+a{
+    color: black;
+    font-size: 30px;
+}
